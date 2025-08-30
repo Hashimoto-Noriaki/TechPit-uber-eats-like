@@ -1,0 +1,16 @@
+current directory: /Users/hashimotonoriaki/git/uber-eats-like/uber-eats-like/vendor/bundle/ruby/3.1.0/gems/erb-4.0.4/ext/erb/escape
+/Users/hashimotonoriaki/.rbenv/versions/3.1.3/bin/ruby -I /Users/hashimotonoriaki/.rbenv/versions/3.1.3/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /Users/hashimotonoriaki/git/uber-eats-like/uber-eats-like/vendor/bundle/ruby/3.1.0/gems/erb-4.0.4/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250831-19635-csxvvt sitelibdir\=./.gem.20250831-19635-csxvvt clean
+
+current directory: /Users/hashimotonoriaki/git/uber-eats-like/uber-eats-like/vendor/bundle/ruby/3.1.0/gems/erb-4.0.4/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250831-19635-csxvvt sitelibdir\=./.gem.20250831-19635-csxvvt
+compiling escape.c
+linking shared-object erb/escape.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.1'
+
+current directory: /Users/hashimotonoriaki/git/uber-eats-like/uber-eats-like/vendor/bundle/ruby/3.1.0/gems/erb-4.0.4/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250831-19635-csxvvt sitelibdir\=./.gem.20250831-19635-csxvvt install
+/usr/local/bin/ginstall -c -m 0755 escape.bundle ./.gem.20250831-19635-csxvvt/erb

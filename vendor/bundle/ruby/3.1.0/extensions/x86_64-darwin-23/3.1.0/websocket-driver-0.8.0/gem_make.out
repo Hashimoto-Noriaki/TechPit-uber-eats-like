@@ -1,0 +1,16 @@
+current directory: /Users/hashimotonoriaki/git/uber-eats-like/uber-eats-like/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+/Users/hashimotonoriaki/.rbenv/versions/3.1.3/bin/ruby -I /Users/hashimotonoriaki/.rbenv/versions/3.1.3/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /Users/hashimotonoriaki/git/uber-eats-like/uber-eats-like/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20250831-19635-1n8xon sitelibdir\=./.gem.20250831-19635-1n8xon clean
+
+current directory: /Users/hashimotonoriaki/git/uber-eats-like/uber-eats-like/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20250831-19635-1n8xon sitelibdir\=./.gem.20250831-19635-1n8xon
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.1'
+
+current directory: /Users/hashimotonoriaki/git/uber-eats-like/uber-eats-like/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20250831-19635-1n8xon sitelibdir\=./.gem.20250831-19635-1n8xon install
+/usr/local/bin/ginstall -c -m 0755 websocket_mask.bundle ./.gem.20250831-19635-1n8xon
