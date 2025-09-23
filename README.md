@@ -8,3 +8,7 @@ rails s
 cd frontend
 npm start
 ```
+```
+npm create vite
+```
+でviteに変更
